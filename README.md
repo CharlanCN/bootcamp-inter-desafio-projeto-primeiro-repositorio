@@ -1,2 +1,2 @@
-# bootcamp-inter-desafio-projeto-primeiro-repositorio
-Bootcamp Inter - Desafio de projeto - Introdução a Git/Github - Primeiro repositório
+# Bootcamp INTER - ORANGE TECH+
+Bootcamp Inter - Introdução a Git/Github - Desafio de projeto - Primeiro repositório
